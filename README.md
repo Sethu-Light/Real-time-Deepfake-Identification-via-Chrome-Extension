@@ -36,11 +36,6 @@ Deepfake-Detector-Extension/
 │
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
-
 
 ## ⚙️ Installation Guide
 
@@ -54,16 +49,12 @@ Ensure you have Python 3.9+ installed.
 
 Install dependencies:
 
-bash
-Copy
-Edit
+
 cd backend
 pip install -r requirements.txt
 Run the Flask server:
 
-bash
-Copy
-Edit
+
 python app.py
 The backend will run at: http://127.0.0.1:5000/
 
@@ -103,9 +94,7 @@ Flask-CORS
 
 Install using:
 
-bash
-Copy
-Edit
+
 pip install flask flask-cors tensorflow pillow numpy
 Chrome Extension
 Chrome 92+
@@ -140,9 +129,6 @@ Deepfake Detection Datasets (e.g., FaceForensics++, Deepfake Detection Challenge
 
 TensorFlow and Flask communities
 
-yaml
-Copy
-Edit
 
 
 
