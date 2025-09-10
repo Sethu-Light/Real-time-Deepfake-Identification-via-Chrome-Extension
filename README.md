@@ -131,7 +131,7 @@ TensorFlow and Flask communities
 
 
 
-
+AI MODEL Link 🔗: https://drive.google.com/drive/folders/1bY1j7ZJOaRhNz6lCWA9YdXfeDc6KnnaW?usp=sharing
 
 
 
